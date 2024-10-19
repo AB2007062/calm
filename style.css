@@ -1,0 +1,197 @@
+*{
+    list-style: none;
+}
+
+.navbar-logo img{
+    width: 78px;
+    height: 40px;    
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    justify-content: space-around;
+}
+
+.navbar-link{
+    display: flex;
+    gap: 15px;
+}
+/* navbar end */
+
+/* header */
+.header-logo{
+    width: 94px;
+    height: 48px;
+}
+
+.header-text h1{
+    max-width: 683px;
+}
+
+.header-text{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+/* header end */
+
+/* cards */
+.card-text1 p{
+    max-width: 462px;
+}
+
+.card-1{
+    width: 504.63px;
+    height: 563.58px;  
+}
+
+.card-text1{
+    padding: 20px;
+}
+
+.card-2{
+    width: 243.31px;
+    height: 280.73px;
+    
+}
+
+.card2-img img{
+    width: 243px;
+    height: 137px;   
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 215px;
+    gap: 16px;
+}
+/* cards end */
+.container3{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    gap: 16px;
+}
+.container8{
+    display: flex;
+    justify-content: center;
+    margin-left: 8px;
+    gap: 15px; 
+    
+}
+.page1-text{
+    max-width: 250px;
+}
+.page2-text{
+    max-width: 250px;
+}
+.page3-text{
+    max-width: 250px;
+}
+.move{
+    margin-left: 240px;
+    margin-top: 20px;
+    
+    gap: 10px;
+    
+}
+.rasm1-text{
+    max-width: 670px;
+    margin-left: 10px;
+
+}
+.rasm2-text{
+    max-width: 700px;
+    margin-left: 10px; 
+
+}  
+
+.rasm1{
+    display: flex;
+    
+}
+.rasm2{
+    display: flex;
+}
+.text{
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+.matn1{
+    max-width: 860px;
+    
+}
+.matn2{
+    
+    max-width: 860px;
+}
+.rasm1-img{
+    margin-top: 27px;
+    width: 200px;
+    height:122px ;
+}
+.rasm2-img{
+    margin-top: 27px;
+    width: 200px;
+    height: 122px;
+}
+.drone{
+    margin-left: 240px;
+}
+.fake1{
+    display: flex;
+}
+.fake2{
+    display: flex;
+}
+.fake3{
+    display: flex;
+}
+.fake1-text{
+    max-width: 680px;
+    margin-left: 10px;
+
+}
+.fake2-text{
+    max-width: 680px;
+    margin-left: 10px;
+}
+.fake3-text{
+    max-width: 680px;
+    margin-left: 10px;
+}
+.fake1-img{
+    margin-top: 20px;
+}
+.fake2-img{
+    margin-top: 20px;
+}
+.fake3-img{
+    margin-top: 20px;
+}
+.stay{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+}
+.know1-text{
+    max-width: 350px;
+    margin-top: 50px;
+}
+.know2{
+    margin-top: 20px;
+}
+.inputt1{
+
+
+}
+.inputt2{
+  margin-top: 10px;  
+}
+.inputt3{
+    margin-top: 10px;
+}
